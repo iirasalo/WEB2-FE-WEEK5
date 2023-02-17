@@ -1,6 +1,6 @@
 # Readme
 
-## Task 1
+## Activity 1
 
 Inside the `server` directory
 
@@ -21,12 +21,22 @@ npm install
 npm run dev
 ```
 
-3. Test the endpoints with postman
-   > More instructions in class
+3. Test the endpoints with POSTMAN. refer to the following figure.
 
-## Task 2
+![](./jwt.png)
 
-1. The code for `signup.html` is provided for you.
-   Test that you can register a new user
-2. Implement the necessary logic to have a working logout service.
-3. Implement the necessary logic to have a working frontend.
+## Activity 2
+
+Implement the necessary logic to have a working signup page.html.
+
+## Activity 3
+
+Implement the necessary logic to have a working login page.html.
+
+## Activity 4
+
+Implement the necessary logic to have a working frontend.
+
+## Activity 5
+
+Implement the necessary logic to have a working logout service.
