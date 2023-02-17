@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
 })
 
 // connect to db
-mongoose.connect(process.env.MONGO_URI)
+mongoose.connect(process.env.MONGODB_URI)
   .then(() => {
     // listen for requests
     app.listen(process.env.PORT, () => {
